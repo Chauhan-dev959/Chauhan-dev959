@@ -49,7 +49,7 @@
 🌐 CONNECT
 
 <p align="center">
-  <a href="https://t.me/J9links_by_chauhan">
+  <a href="https://t.me/Chauhan_x_mr07">
     <img src="https://img.shields.io/badge/Telegram-ACCESS-00FF00?style=for-the-badge&logo=telegram"/>
   </a>
   <a href="https://t.me/J9LINKS">
